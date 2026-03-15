@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swift Dependency Graph"
+  short_description: "Swift dependency graph and modules design"
+  default_prompt: "Expert guidance for modularizing Swift codebases, designing scalable dependency graphs, and maintaining healthy module boundaries and build performance."
